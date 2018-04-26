@@ -1,24 +1,24 @@
 h1{
  font-family: Tahoma, Geneva, sans-serif;
- color:#1000bb;
+ color:#9000ff;
 }
 
 h2{
  font-family: Tahoma, Geneva, sans-serif;
- color:#1000aa;
+ color:#8000ee;
 }
 
 h3{
  font-family: Tahoma, Geneva, sans-serif;
- color:#050099;
+ color:#4000bb;
 }
 
 p{
  font-family: Verdana, Geneva, sans-serif;
-  color:#010050;
+  color:#1000aa;
 }
 
 body{
- background-image: url("https://images.freecreatives.com/wp-content/uploads/2016/02/Abstract-Vintage-Pattern-For-Free.jpg")
- background-color:#ffffff;
+ background-image: url("https://images.freecreatives.com/wp-content/uploads/2016/02/Abstract-Vintage-Pattern-For-Free.jpg");
+ background-color:#000000;
 }
