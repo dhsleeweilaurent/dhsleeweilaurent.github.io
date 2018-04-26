@@ -18,6 +18,10 @@ p {
   color:#aa00aa;
 }
 
+ul {
+ font-family: Verdana, Geneva, sans-serif;
+  color:#aa00aa;
+}
 body {
  background-image: url("https://www.transparenttextures.com/patterns/cream-pixels.png");
  background-color:#000000;
