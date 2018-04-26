@@ -1,24 +1,24 @@
 h1{
  font-family: Tahoma, Geneva, sans-serif;
- color: #1000bb;
+ color:#1000bb;
 }
 
 h2{
  font-family: Tahoma, Geneva, sans-serif;
- color: #1000aa;
+ color:#1000aa;
 }
 
 h3{
  font-family: Tahoma, Geneva, sans-serif;
- color: #050099;
+ color:#050099;
 }
 
 p{
  font-family: Verdana, Geneva, sans-serif;
-  color: #010050;
+  color:#010050;
 }
 
 body{
  background-image: url("https://images.freecreatives.com/wp-content/uploads/2016/02/Abstract-Vintage-Pattern-For-Free.jpg")
- background-color: #ffffff;
+ background-color:#ffffff;
 }
